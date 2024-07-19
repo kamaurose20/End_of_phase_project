@@ -1,0 +1,41 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "firstName": "Sam",
+        "lastName": "Wright",
+        "email": "sam.wright@gmail.com",
+        "contactNumber": "1234567890",
+        "leaveType": "Vacation",
+        "leaveDate": "2024-07-02"
+      },
+      {
+        "id": 2,
+        "firstName": "Rose",
+        "lastName": "Kamau",
+        "email": "rose.kamau@gmail.com",
+        "contactNumber": "076548908",
+        "leaveType": "Sick Leave",
+        "leaveDate": "2024-07-28"
+      },
+      {
+        "id": 3,
+        "firstName": "Steve",
+        "lastName": "Kamau",
+        "email": "steve.kamau@gmail.com",
+        "contactNumber": "076856459",
+        "leaveType": "Annual Leave",
+        "leaveDate": "2024-07-23"
+      },
+      {
+        "id": 4,
+        "firstName": "Tony",
+        "lastName": "Kanyii",
+        "email": "tony.kanyii@gmail.com",
+        "contactNumber": "076856459",
+        "leaveType": "Vacation",
+        "leaveDate": "2024-07-14"
+      }
+    ]
+  }
+  
